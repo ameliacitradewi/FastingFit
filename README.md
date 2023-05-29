@@ -1,6 +1,6 @@
 # Fasting Fit (SwiftUI)
 
-This repository contains an iOS app developed using SwiftUI for tracking and managing your intermittent fasting schedule. In this app, we utilize date components to schedule fasting and eating windows and create count-up and count-down timers. By tracking these timers, we calculate the progress, which is visually represented by a vibrant progress ring featuring captivating animations.
+This repository contains an iOS app developed using SwiftUI for tracking and managing user's intermittent fasting schedule. In this app, I utilize date components to schedule fasting and eating windows and create count-up and count-down timers. By tracking these timers, FastingFit calculate the progress, which is visually represented by a vibrant progress ring featuring captivating animations.
 
 ## Features
 
